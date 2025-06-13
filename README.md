@@ -28,7 +28,6 @@ I'm solving LeetCode problems in Java every day to become stronger in problem-so
 
 ---
 
-```markdown
 ### 🔍 Binary Search (Started on Day 5)
 
 → 35 - Search Insert Position  
