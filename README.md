@@ -34,6 +34,8 @@ I'm solving LeetCode problems in Java every day to become stronger in problem-so
 → 35 - Search Insert Position  
 → 704 - Binary Search
 
+---
+
 ## 🚀 Why I'm Doing This
 
 - To get strong in **Java + DSA**
@@ -41,6 +43,7 @@ I'm solving LeetCode problems in Java every day to become stronger in problem-so
 - To make peace with bugs and logic errors 😤🐞
 
 ---
+
 ## ✨ Learning Approach
 
 I try solving each problem on my own first.  
