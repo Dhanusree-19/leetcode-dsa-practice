@@ -21,7 +21,12 @@ I'm solving LeetCode problems in Java every day to become stronger in problem-so
 - **Day 4**:  
   → 3423 - Maximum Absolute Difference in a Circular Array  
   → 1295 - Find Numbers with Even Number of Digits  
-  → 1385 - Find the Distance Value Between Two Arrays  
+  → 1385 - Find the Distance Value Between Two Arrays
+
+ - **Day 5**:  
+  → 35 - Search Insert Position  
+  → 704 - Binary Search  
+  → 2616 - Minimize the Maximum Difference of Pairs  
 
 ---
 ## 🚀 Why I'm Doing This
