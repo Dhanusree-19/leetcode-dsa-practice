@@ -24,11 +24,15 @@ I'm solving LeetCode problems in Java every day to become stronger in problem-so
   → 1385 - Find the Distance Value Between Two Arrays
 
  - **Day 5**:  
-  → 35 - Search Insert Position  
-  → 704 - Binary Search  
   → 2616 - Minimize the Maximum Difference of Pairs  
 
 ---
+
+### 🔍 Binary Search (Started on Day 5)
+```markdown
+→ 35 - Search Insert Position  
+→ 704 - Binary Search
+
 ## 🚀 Why I'm Doing This
 
 - To get strong in **Java + DSA**
